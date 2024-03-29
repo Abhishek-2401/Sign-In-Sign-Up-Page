@@ -297,7 +297,7 @@ const SignUpForm = () => {
         </form>
       </div>
       {/* Right side: Image */}
-      <div className="hidden lg:block md:block lg:w-1/2">
+      <div className="hidden lg:block lg:w-1/2">
         <img
           src="amico.png"
           alt="Sign Up Image"
